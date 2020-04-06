@@ -22,7 +22,7 @@ const countOnly = function(allItems, itemsToCount) {
     console.log(item);
   }
     return results;
-}    
+}    ``
 
 const firstNames = [
   "Karl",
