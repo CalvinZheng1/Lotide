@@ -1,12 +1,13 @@
 {
-  "name": "lotide",
+  "name": "@calvinzheng/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Lodash clone done at Lighthouse Labs",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
+    "basic": "^2.0.3",
     "chai": "^4.2.0"
   },
   "devDependencies": {
@@ -19,7 +20,7 @@
     "type": "git",
     "url": "git+https://github.com/CalvinZheng1/Lotide.git"
   },
-  "author": "",
+  "author": "Calvin Zheng <calvinzheng08@hotmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CalvinZheng1/Lotide/issues"
